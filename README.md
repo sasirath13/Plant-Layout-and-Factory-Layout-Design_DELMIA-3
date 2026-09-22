@@ -1,45 +1,66 @@
 PROCESS PLANNING AND PLANT LAYOUT
 Electric Motor Manufacturing Plant
+ure. If you're using the Electric Motor Manufacturing Plant as your sample in DELMIA, you can use the following content for your project/report.
+
+Project Title
+
+Design and Development of an Electric Motor Manufacturing Plant Layout Using DELMIA
+
 1. Introduction
-This document presents the complete process planning and plant layout for the manufacture of a Transmission Shaft using CNC and NC machines. The objective is to achieve efficient material flow, high productivity, and safe working conditions.
-2. Product Description 
-Product: Transmission Shaft
-Function: Transmits torque and rotary motion
-Application: Automotive and industrial machinery
-Production Type: Batch production
-Manufacturing Method: CNC Turning and NC machining
-3. Material Selection
-Material Selected: EN8 / AISI 1040 Steel
-Reason: High strength, good machinability, and suitability for CNC finish turning.
-Raw Material Form: Hot rolled round bar.
-4. Process Planning
-The transmission shaft is manufactured using CNC and NC machines without grinding. Surface finish and dimensional accuracy are achieved through finish turning operations.
-Manufacturing Steps:
-1. Raw material cutting using band saw
-2. Facing and centering on CNC turning centre
-3. Rough turning
-4. Step and profile turning
-5. Grooving and chamfering
-6. Drilling or tapping (if required)
-7. Finish turning
-8. Deburring
-9. Inspection
-5. Machines Used
-• Band Saw Machine
-• CNC Turning Centre
-• NC / Conventional Machine
-• Inspection table with gauges
-6. Time Estimation (Approximate)
-Cutting: 4 min
-Facing & Turning: 35 min
-Drilling/Tapping: 6 min
-Deburring & Inspection: 9 min
-Total Cycle Time per Component: ~54 minutes
-7. Quality Control
-Inspection is carried out using vernier calipers, micrometers, and dial gauges. Parameters checked include diameter, length, runout, and surface finish.
-8. Plant Layout
-The plant layout is designed to ensure smooth material flow, minimum handling time, and operator safety. The layout includes designated areas for raw material storage, CNC machining, NC machining, conveyors, inspection, and finished goods storage.
-The plant layout design is prepared using DELMIA Plant Layout Design and is shown in the figure below. The uploaded layout image represents the top-view arrangement of machines, safety fencing, conveyor system, storage racks, and inspection area.
+
+The project focuses on designing a systematic and efficient manufacturing plant layout for the production of electric motors using 3DEXPERIENCE DELMIA Plant Layout Design. The layout integrates production machines, material storage, assembly stations, inspection areas, material-handling systems, safety zones, and finished-goods storage.
+
+2. Objective
+To design an efficient electric motor manufacturing plant layout.
+To optimize the movement of raw materials and finished products.
+To reduce unnecessary material handling and transportation distance.
+To provide proper space allocation for machines, storage, and workstations.
+To improve workplace safety and accessibility.
+To visualize and validate the plant layout using DELMIA.
+3. Manufacturing Process
+
+Raw Material → Machining → Stator Winding → Rotor Assembly → Final Assembly → Testing & Inspection → Packing → Finished Goods Storage → Dispatch
+
+4. Major Plant Areas
+Area	Function
+Raw Material Storage	Stores steel, copper wire, laminations and other materials
+Machining Area	Machining of shafts, housings and other components
+Stator Winding	Winding and insulation of stator
+Rotor Assembly	Assembly of rotor components
+Final Assembly	Complete electric motor assembly
+Testing & Inspection	Performance and quality checking
+Packing Area	Packaging of completed motors
+Finished Goods Storage	Temporary storage before dispatch
+Loading/Unloading	Movement of materials and finished products
+Office & Utilities	Administrative and support activities
+5. Methodology
+Plant requirement identification
+Production process analysis
+Area and space estimation
+Machine and equipment selection
+Plant layout creation in DELMIA
+Storage and material-flow arrangement
+Safety-zone and pedestrian-path creation
+Forklift/material-handling route planning
+Layout visualization and validation
+Final layout optimization
+6. Expected Outcome
+
+The proposed layout provides a clear and organized material flow, proper machine positioning, efficient utilization of floor space, and safer movement of workers and material-handling equipment. The DELMIA environment allows the proposed plant to be visualized in a 3D digital factory environment before physical implementation.
+
+7. Novelty
+
+The layout incorporates:
+
+One-way material flow
+Dedicated forklift routes
+Separate pedestrian pathways
+Clearly defined safety zones
+Integrated raw-material and finished-goods storage
+3D digital visualization for layout validation and optimization
+Short Abstract
+
+This project presents the design and development of an electric motor manufacturing plant layout using 3DEXPERIENCE DELMIA. The proposed layout integrates raw-material storage, machining, stator winding, rotor assembly, final assembly, testing, packing, and finished-goods storage. The plant is designed to achieve efficient material flow, optimum space utilization, reduced material-handling distance, and improved workplace safety. DELMIA is used to create and visualize the plant in a 3D digital environment, enabling evaluation and optimization of the proposed manufacturing layout before physical implementation.
 <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/c0495080-26c9-4249-967a-ffad1f669ba6" />
 
 
