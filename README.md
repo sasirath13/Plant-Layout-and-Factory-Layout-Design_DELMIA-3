@@ -61,7 +61,8 @@ Integrated raw-material and finished-goods storage
 Short Abstract
 
 This project presents the design and development of an electric motor manufacturing plant layout using 3DEXPERIENCE DELMIA. The proposed layout integrates raw-material storage, machining, stator winding, rotor assembly, final assembly, testing, packing, and finished-goods storage. The plant is designed to achieve efficient material flow, optimum space utilization, reduced material-handling distance, and improved workplace safety. DELMIA is used to create and visualize the plant in a 3D digital environment, enabling evaluation and optimization of the proposed manufacturing layout before physical implementation.
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/c0495080-26c9-4249-967a-ffad1f669ba6" />
+![Uploading Screenshot 2026-09-21 155330.png…]()
+
 
 
 
